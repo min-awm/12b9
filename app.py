@@ -3,6 +3,7 @@ import cv2
 import numpy as np
 import base64
 from flask import Flask, request,render_template
+from flask_ngrok import run_with_ngrok
 
 
 model = load_model('chinh.h5')
