@@ -15,4 +15,4 @@ python app.py
 ```
 
 ## Trên google colab
-![](https://github.com/minha05112003a/12b9/a.png)
+![](https://raw.githubusercontent.com/minha05112003a/12b9/main/a.png)
